@@ -23,4 +23,5 @@
 若使用 GitHub 網頁進行 commit 會依次數扣分
 
 ## 作業連結
-- [儲存庫](https://github.com/RubyOzgeWu/line-robot)
+- [儲存庫 英文版](https://github.com/RubyOzgeWu/line-robot)
+- [儲存庫 中文版](https://github.com/RubyOzgeWu/line-bot-CH)
